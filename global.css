@@ -35,7 +35,6 @@ a{
 }
 .category{
     text-align: center;
-    border: 2px solid red;
 }
 .category:hover{
     border: 5px solid black;
